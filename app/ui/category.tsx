@@ -2,8 +2,9 @@
 import { useState } from 'react';
 import CategoryElement from "@/app/ui/category-element";
 import { getLabelsByCategory } from "@/lib/db";
+import CategoryComponent from "@/app/_interfaces/category-component";
 
-export default function Category({ title, components, id }){
+export default function Category({ title, components, id }: { title: string; components: Array<CategoryComponent>; id: string;}){
   const [enabled, setState] = useState(false);
   return (
     <div className="rounded-xl dark:bg-gray-800 bg-gray-100 space-y-2 p-5 dark:has-[:checked]:bg-gray-700 has-[:checked]:bg-gray-200">
@@ -17,7 +18,7 @@ export default function Category({ title, components, id }){
       {enabled ? (
           <ul className="space-y-1">
             <li>
-              <select defaultValue="" name="label" className="flex h-8 w-full not-has-[option[value]]:hidden rounded-sm bg-foreground text-background md:w-[158px] cursor-pointer justify-self-center">
+              <select defaultValue="" name={`${id}|label`} className="flex h-8 w-full not-has-[option[value]]:hidden rounded-sm bg-foreground text-background md:w-[158px] cursor-pointer justify-self-center">
                 <option></option>
                 {getLabelsByCategory(id).map(label => (
                   <option key={label} value={label}>{label}</option>

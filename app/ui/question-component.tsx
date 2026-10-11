@@ -1,7 +1,8 @@
 'use client';
+
 import { useState } from 'react';
 
-export default function QuestionComponent({ placeholder, value, config, showAnswers }){
+export default function QuestionComponent({ placeholder, value, config, showAnswers }: { placeholder: string; value: string; config: "Provided" | "Quizzed" | "Hidden"; showAnswers: boolean; } ){
   const [userResponse, setUserResponse] = useState('');
   return (
     <div key="question" className="m-0 min-w-[219px]">
@@ -16,7 +17,7 @@ export default function QuestionComponent({ placeholder, value, config, showAnsw
   )
 }
 
-function determineH1Visibility(config, showAnswers){
+function determineH1Visibility(config: "Provided" | "Quizzed" | "Hidden", showAnswers: boolean){
   if(config == 'Hidden'){
     return 'hidden';
   }
@@ -24,7 +25,7 @@ function determineH1Visibility(config, showAnswers){
   return config == 'Provided' ? 'mb-2' : 'hidden';
 }
 
-function determineInputVisibility(config, showAnswers){
+function determineInputVisibility(config: "Provided" | "Quizzed" | "Hidden", showAnswers: boolean){
   if(config == 'Hidden'){
     return 'hidden';
   }

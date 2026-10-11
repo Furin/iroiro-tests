@@ -1,7 +1,8 @@
-{
-  "kana": {
+[
+  {
     "title": "Kana Characters",
     "subject": "Japanese",
+    "key": "kana",
     "components": [
       {
         "id": "0",
@@ -20,9 +21,10 @@
       }
     ]
   },
-  "day-of-month": {
+  {
     "title": "Days of the Month",
     "subject": "Japanese",
+    "key": "day-of-month",
     "components": [
       {
         "id": "0",
@@ -46,9 +48,10 @@
       }
     ]
   },
-  "covalent-naming-rules": {
+  {
     "title": "Covalent Naming Rules",
     "subject": "Chemistry",
+    "key": "covalent-naming-rules",
     "components": [
       {
         "id": "0",
@@ -62,4 +65,4 @@
       }
     ]
   }
-}
+]
