@@ -1,0 +1,820 @@
+[{
+        "values": {
+            "0": "あ",
+            "1": "ア",
+            "2": "a"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "い",
+            "1": "イ",
+            "2": "i"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "う",
+            "1": "ウ",
+            "2": "u"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "え",
+            "1": "エ",
+            "2": "e"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "お",
+            "1": "オ",
+            "2": "o"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "か",
+            "1": "カ",
+            "2": "ka"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "き",
+            "1": "キ",
+            "2": "ki"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "く",
+            "1": "ク",
+            "2": "ku"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "け",
+            "1": "ケ",
+            "2": "ke"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "こ",
+            "1": "コ",
+            "2": "ko"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "さ",
+            "1": "サ",
+            "2": "sa"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "し",
+            "1": "シ",
+            "2": "shi"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "す",
+            "1": "ス",
+            "2": "su"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "せ",
+            "1": "セ",
+            "2": "se"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "そ",
+            "1": "ソ",
+            "2": "so"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "た",
+            "1": "タ",
+            "2": "ta"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ち",
+            "1": "チ",
+            "2": "chi"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "つ",
+            "1": "ツ",
+            "2": "tsu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "て",
+            "1": "テ",
+            "2": "te"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "と",
+            "1": "ト",
+            "2": "to"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "な",
+            "1": "ナ",
+            "2": "na"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "に",
+            "1": "ニ",
+            "2": "ni"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぬ",
+            "1": "ヌ",
+            "2": "nu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ね",
+            "1": "ネ",
+            "2": "ne"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "の",
+            "1": "ノ",
+            "2": "no"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "は",
+            "1": "ハ",
+            "2": "ha"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ひ",
+            "1": "ヒ",
+            "2": "hi"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ふ",
+            "1": "フ",
+            "2": "fu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "へ",
+            "1": "ヘ",
+            "2": "he"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ほ",
+            "1": "ホ",
+            "2": "ho"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ま",
+            "1": "マ",
+            "2": "ma"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "み",
+            "1": "ミ",
+            "2": "mi"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "む",
+            "1": "ム",
+            "2": "mu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "め",
+            "1": "メ",
+            "2": "me"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "も",
+            "1": "モ",
+            "2": "mo"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "や",
+            "1": "ヤ",
+            "2": "ya"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ゆ",
+            "1": "ユ",
+            "2": "yu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "よ",
+            "1": "ヨ",
+            "2": "yo"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ら",
+            "1": "ラ",
+            "2": "ra"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "り",
+            "1": "リ",
+            "2": "ri"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "る",
+            "1": "ル",
+            "2": "ru"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "れ",
+            "1": "レ",
+            "2": "re"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ろ",
+            "1": "ロ",
+            "2": "ro"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "わ",
+            "1": "ワ",
+            "2": "wa"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "を",
+            "1": "ヲ",
+            "2": "wo"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ん",
+            "1": "ン",
+            "2": "n"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "が",
+            "1": "ガ",
+            "2": "ga"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぎ",
+            "1": "ギ",
+            "2": "gi"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぐ",
+            "1": "グ",
+            "2": "gu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "げ",
+            "1": "ゲ",
+            "2": "ge"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ご",
+            "1": "ゴ",
+            "2": "go"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ざ",
+            "1": "ザ",
+            "2": "za"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "じ",
+            "1": "ジ",
+            "2": "ji"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ず",
+            "1": "ズ",
+            "2": "zu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぜ",
+            "1": "ゼ",
+            "2": "ze"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぞ",
+            "1": "ゾ",
+            "2": "zo"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "だ",
+            "1": "ダ",
+            "2": "da"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぢ",
+            "1": "ヂ",
+            "2": "ji"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "づ",
+            "1": "ヅ",
+            "2": "zu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "で",
+            "1": "デ",
+            "2": "de"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ど",
+            "1": "ド",
+            "2": "do"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ば",
+            "1": "バ",
+            "2": "ba"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "び",
+            "1": "ビ",
+            "2": "bi"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぶ",
+            "1": "ブ",
+            "2": "bu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "べ",
+            "1": "ベ",
+            "2": "be"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぼ",
+            "1": "ボ",
+            "2": "bo"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぱ",
+            "1": "パ",
+            "2": "pa"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぴ",
+            "1": "ピ",
+            "2": "pi"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぷ",
+            "1": "プ",
+            "2": "pu"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぺ",
+            "1": "ペ",
+            "2": "pe"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": "ぽ",
+            "1": "ポ",
+            "2": "po"
+        },
+        "category": "kana"
+    }, {
+        "values": {
+            "0": 1,
+            "1": "一日",
+            "2": "ついたち",
+            "3": "tsuitachi"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 2,
+            "1": "二日",
+            "2": "ふつか",
+            "3": "futsuka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 3,
+            "1": "三日",
+            "2": "みっか",
+            "3": "mikka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 4,
+            "1": "四日",
+            "2": "よっか",
+            "3": "yokka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 5,
+            "1": "五日",
+            "2": "いつか",
+            "3": "itsuka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 6,
+            "1": "六日",
+            "2": "むいか",
+            "3": "muika"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 7,
+            "1": "七日",
+            "2": "なのか",
+            "3": "nanoka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 8,
+            "1": "八日",
+            "2": "ようか",
+            "3": "youka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 9,
+            "1": "九日",
+            "2": "ここのか",
+            "3": "kokonoka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 10,
+            "1": "十日",
+            "2": "とおか",
+            "3": "tooka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 11,
+            "1": "十一日",
+            "2": "じゅういちにち",
+            "3": "juuichinichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 12,
+            "1": "十二日",
+            "2": "じゅうににち",
+            "3": "juuninichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 13,
+            "1": "十三日",
+            "2": "じゅうさんにち",
+            "3": "juusannichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 14,
+            "1": "十四日",
+            "2": "じゅうよっか",
+            "3": "juuyokka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 15,
+            "1": "十五日",
+            "2": "じゅうごにち",
+            "3": "juugonichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 16,
+            "1": "十六日",
+            "2": "じゅうろくにち",
+            "3": "juurokunichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 17,
+            "1": "十七日",
+            "2": "じゅうしちにち",
+            "3": "juushichinichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 18,
+            "1": "十八日",
+            "2": "じゅうはちにち",
+            "3": "juuhachinichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 19,
+            "1": "十九日",
+            "2": "じゅうくにち",
+            "3": "juukunichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 20,
+            "1": "二十日",
+            "2": "はつか",
+            "3": "hatsuka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 21,
+            "1": "二十一日",
+            "2": "にじゅういちにち",
+            "3": "nijuuichinichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 22,
+            "1": "二十二日",
+            "2": "にじゅうににち",
+            "3": "nijuuninichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 23,
+            "1": "二十三日",
+            "2": "にじゅうさんにち",
+            "3": "nijuusannichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 24,
+            "1": "二十四日",
+            "2": "にじゅうよっか",
+            "3": "nijuuyokka"
+        },
+        "category": "day-of-month",
+        "labels": ["Outliers"]
+    }, {
+        "values": {
+            "0": 25,
+            "1": "二十五日",
+            "2": "にじゅうごにち",
+            "3": "nijuugonichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 26,
+            "1": "二十六日",
+            "2": "にじゅうろくにち",
+            "3": "nijuurokunichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 27,
+            "1": "二十七日",
+            "2": "にじゅうしちにち",
+            "3": "nijuushichinichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 28,
+            "1": "二十八日",
+            "2": "にじゅうはちにち",
+            "3": "nijuuhachinichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 29,
+            "1": "二十九日",
+            "2": "にじゅうくにち",
+            "3": "nijuukunichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 30,
+            "1": "三十日",
+            "2": "さんじゅうにち",
+            "3": "sanjuunichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 31,
+            "1": "三十一日",
+            "2": "さんじゅういちにち",
+            "3": "sanjuuichinichi"
+        },
+        "category": "day-of-month"
+    }, {
+        "values": {
+            "0": 1,
+            "1": "mono-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 2,
+            "1": "di-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 3,
+            "1": "tri-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 4,
+            "1": "tetra-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 5,
+            "1": "penta-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 6,
+            "1": "hexa-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 7,
+            "1": "hepta-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 8,
+            "1": "octa-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 9,
+            "1": "nona-"
+        },
+        "category": "covalent-naming-rules"
+    }, {
+        "values": {
+            "0": 10,
+            "1": "deca-"
+        },
+        "category": "covalent-naming-rules"
+    }
+]

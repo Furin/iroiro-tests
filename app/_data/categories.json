@@ -1,0 +1,65 @@
+{
+  "kana": {
+    "title": "Kana Characters",
+    "subject": "Japanese",
+    "components": [
+      {
+        "id": "0",
+        "placeholder": "Hiragana Character",
+        "defaultType": "Provided"
+      },
+      {
+        "id": "1",
+        "placeholder": "Katakana Character",
+        "defaultType": "Hidden"
+      },
+      {
+        "id": "2",
+        "placeholder": "Romaji Phonetic",
+        "defaultType": "Quizzed"
+      }
+    ]
+  },
+  "day-of-month": {
+    "title": "Days of the Month",
+    "subject": "Japanese",
+    "components": [
+      {
+        "id": "0",
+        "placeholder": "Day of Month Number",
+        "defaultType": "Provided"
+      },
+      {
+        "id": "1",
+        "placeholder": "Day of Month Kanji",
+        "defaultType": "Provided"
+      },
+      {
+        "id": "2",
+        "placeholder": "Day of Month Hiragana",
+        "defaultType": "Hidden"
+      },
+      {
+        "id": "3",
+        "placeholder": "Day of Month Phonetic",
+        "defaultType": "Quizzed"
+      }
+    ]
+  },
+  "covalent-naming-rules": {
+    "title": "Covalent Naming Rules",
+    "subject": "Chemistry",
+    "components": [
+      {
+        "id": "0",
+        "placeholder": "Number of Atoms",
+        "defaultType": "Provided"
+      },
+      {
+        "id": "1",
+        "placeholder": "Prefix",
+        "defaultType": "Quizzed"
+      }
+    ]
+  }
+}
