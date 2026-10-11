@@ -1,4 +1,3 @@
 export default interface CategoryConfig {
-  placeholders: string;
-  key: string;
+  [key: string]: "Provided" | "Quizzed" | "Hidden"
 }

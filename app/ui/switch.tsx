@@ -1,7 +1,7 @@
 'use client';
 import { useState } from 'react';
 
-export default function Switch({ name, values, initialValue }){
+export default function Switch({ name, values, initialValue }: {name: string; values: Array<string>; initialValue: string}){
   const [currentValue, setState] = useState(initialValue);
   
   return (

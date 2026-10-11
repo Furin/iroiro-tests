@@ -1,21 +1,21 @@
-import questions from "@/app/_data/questions.json";
-import categories from "@/app/_data/categories.json";
-import { useEffect, useState } from 'react';
+import Category from "@/app/_interfaces/category";
+const categories: Array<Category> = require("@/app/_data/categories.json");
+import QuestionType from "@/app/_interfaces/question-type";
+const questions: Array<QuestionType> = require("@/app/_data/questions.json");
 
-export const importedCategories: Array<CategoryConfig> = [];
-for(let category in categories){
-  importedCategories.push({ key: category, ...categories[category] });  
+export function getCategory(category: string): Category | undefined{
+  return categories.find(cat => cat.key == category);
 }
 
-export function getCategory(category: string){
-  return categories[category];
+export function getAllCategories(): Array<Category> {
+  return [...categories];
 }
 
 export function getLabelsByCategory(category: string){
-  let labels = [];
-  for(let question of questions){
+  const labels: Array<string> = [];
+  for(const question of questions){
     if(question.labels && question.category == category){
-      for(let label of question.labels){
+      for(const label of question.labels){
         if(!labels.includes(label)) labels.push(label);
       }
     }
@@ -23,12 +23,8 @@ export function getLabelsByCategory(category: string){
   return labels;
 }
 
-export function getQuestionsByCategories(categories: Array<string>){
-  const [questionsToReturn, setQuestionsToReturn] = useState([]);
-  useEffect(() => {
-    setQuestionsToReturn(questions.filter(question => categories.includes(question.category)).sort(()=>0.5-Math.random()));
-  }, []);
-  return questionsToReturn;
+export function questionsByCategories(categories: Array<string>): Array<QuestionType> {
+  return questions.filter(question => categories.includes(question.category)).sort(()=>0.5-Math.random());
 }
 
 
