@@ -2,7 +2,7 @@
   {
     "title": "Kana Characters",
     "subject": "Japanese",
-    "key": "kana",
+    "key": "japanese-kana",
     "components": [
       {
         "id": "0",
@@ -22,9 +22,31 @@
     ]
   },
   {
+    "title": "Directions",
+    "subject": "Japanese",
+    "key": "japanese-directions",
+    "components": [
+      {
+        "id": "0",
+        "placeholder": "English Translation",
+        "defaultType": "Provided"
+      },
+      {
+        "id": "1",
+        "placeholder": "Japanese Hiragana",
+        "defaultType": "Quizzed"
+      },
+      {
+        "id": "2",
+        "placeholder": "Romaji Phonetic",
+        "defaultType": "Hidden"
+      }
+    ]
+  },
+  {
     "title": "Days of the Month",
     "subject": "Japanese",
-    "key": "day-of-month",
+    "key": "japanese-day-of-month",
     "components": [
       {
         "id": "0",
