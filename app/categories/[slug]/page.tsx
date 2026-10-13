@@ -25,3 +25,9 @@ export default function Categories({
     </Form>
   );
 }
+
+export function generateStaticParams() {
+  return [...new Set(getAllCategories().map(category => category.subject))].map(subject => {
+    return { slug: subject };
+  });
+}
