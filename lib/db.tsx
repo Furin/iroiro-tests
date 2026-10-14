@@ -24,7 +24,7 @@ export function getLabelsByCategory(category: string){
 }
 
 export function questionsByCategories(categories: Array<string>): Array<QuestionType> {
-  return questions.filter(question => categories.includes(question.category)).sort(()=>0.5-Math.random());
+  return questions.filter(question => categories.includes(question.category));
 }
 
 
